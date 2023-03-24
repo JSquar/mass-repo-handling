@@ -2,7 +2,7 @@
 
 ## Steps
 
-1. Update the version in `my_package/version.py`.
+1. Update the version in `repo_handling/version.py`.
 
 3. Run the release script:
 
